@@ -1,38 +1,46 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: All other crashes or Bugs
+title: '[Bug]'
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Please Name your issue in the bar above ^^^^^^:EX: [bug] NAME OF ISSUE
+#### Issue Description:
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+#### What Happens:
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+#### What you Expected to happen:
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+#### Steps to Reproduce in detail:
+1.
+2.
+3.
+...
+#### Does it happen in Single Player: (yes or no) Please test
+[ ] Yes
+
+[ ] No
+
+#### Does it happen on the Server: (yes or no)
+[ ] Yes
+
+[ ] No
+
+#### Pack Versions: Ex(V165.1.0.1)
+(DO NOT LEAVE BLANK) 
+
+#### Mods Effected: Ex: (Quark, AE2, ect) 
+(DO NOT LEAVE BLANK)
+
+
+#### Your most recent log file where the issue was present or a screenshot of the issue:  ex: (log folder or crash reports or screenshot folder)
+(DO NOT LEAVE BLANK)
+
+[Pastebin/Gist/Pictures LINK here]
+
